@@ -1,0 +1,6 @@
+projectKey=Test-Proj-1
+serverUrl=http://52.163.241.159:9002
+serverVersion=6.5.0.27846
+dashboardUrl=http://52.163.241.159:9002/dashboard/index/Test-Proj-1
+ceTaskId=AV3v3kjFLgUWea8Jm89n
+ceTaskUrl=http://52.163.241.159:9002/api/ce/task?id=AV3v3kjFLgUWea8Jm89n
